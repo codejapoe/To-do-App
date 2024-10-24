@@ -3,7 +3,7 @@
 This project is made for Android using Kotlin Jetpack Compose.
 
 ## Screenshots
-View the screenshots at [screenshots](https://github.com/codejapoe/To-do-App/tree/main/app/release)(https://github.com/codejapoe/To-do-App/tree/main/screenshots)
+View the screenshots at [screenshots](https://github.com/codejapoe/To-do-App/tree/main/screenshots)
 <br /><br />
 Light Mode
 <br />
