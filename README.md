@@ -1,1 +1,1 @@
-<h1><img src="https://raw.githubusercontent.com/codejapoe/To-do-App/refs/heads/main/app/src/main/res/mipmap-hdpi/ic_launcher.webp" alt="Description" width="50" height="50" style="margin-bottom:-50px;"> To-do App</h1>
+<h1><img src="https://raw.githubusercontent.com/codejapoe/To-do-App/refs/heads/main/app/src/main/res/mipmap-hdpi/ic_launcher.webp" alt="Description" width="50" height="50" style="margin-bottom:-10px;"> To-do App</h1>
