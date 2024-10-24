@@ -4,11 +4,11 @@ This project is made for Android using Kotlin Jetpack Compose.
 
 ## Screenshots
 View the screenshots at https://github.com/codejapoe/To-do-App/tree/main/screenshots
-<br />
+<br /><br />
 Light Mode
 <br />
 ![App Screenshot](https://github.com/codejapoe/To-do-App/blob/main/screenshots/screenshot%20(1).jpg?raw=true)
-<br />
+<br /><br />
 Dark Mode
 <br />
 ![App Screenshot](https://github.com/codejapoe/To-do-App/blob/main/screenshots/screenshot%20(4).jpg?raw=true)
