@@ -3,7 +3,7 @@
 This project is made for Android using Kotlin Jetpack Compose.
 
 ## Screenshots
-View the screenshots at https://github.com/codejapoe/To-do-App/tree/main/screenshots
+View the screenshots at [screenshots](https://github.com/codejapoe/To-do-App/tree/main/app/release)(https://github.com/codejapoe/To-do-App/tree/main/screenshots)
 <br /><br />
 Light Mode
 <br />
@@ -15,7 +15,7 @@ Dark Mode
 
 ## Installation
 
-The APK file can be found in app/release (or) directly download from this link: https://github.com/codejapoe/To-do-App/raw/refs/heads/main/app/release/app-release.apk
+The APK file can be found in [app/release](https://github.com/codejapoe/To-do-App/tree/main/app/release) (or) directly download from this link: https://github.com/codejapoe/To-do-App/raw/refs/heads/main/app/release/app-release.apk
 
 ## FAQ
 
